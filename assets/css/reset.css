@@ -30,6 +30,7 @@
     box-sizing: border-box;
   }
   body{
+    font-family: "Roboto", sans-serif;
     width: 100vw;
     height: 100vh;
     background-color: rgba(249, 249, 249, 1);
